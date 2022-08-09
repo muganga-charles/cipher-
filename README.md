@@ -1,2 +1,2 @@
 # cipher-
-the program 
+the program uses the ceaser chiper technique

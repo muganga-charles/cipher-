@@ -1,2 +1,3 @@
 # cipher-
-the program uses the ceaser chiper technique
+the program uses the ceaser chiper technique.
+it asks the user to make a choice
